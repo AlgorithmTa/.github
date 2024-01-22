@@ -3,6 +3,7 @@
 |--|--|--|--|
 |1주차|24.01.07~24.01.12 24:00|5개|[링크🔗](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&search=2023+KAKAO)|
 |2주차|24.01.13~24.01.19 24:00|5개|[1. 두 큐 합 같게 만들기🔗](https://school.programmers.co.kr/learn/courses/30/lessons/118667) <br> [2. 성격 유형 검사하기🔗](https://school.programmers.co.kr/learn/courses/30/lessons/118666) <br> [3. 등산코스 정하기🔗](https://school.programmers.co.kr/learn/courses/30/lessons/118669) <br> [4. 코딩 테스트 공부🔗](https://school.programmers.co.kr/learn/courses/30/lessons/118668)<br> [5. 행렬과 연산🔗](https://school.programmers.co.kr/learn/courses/30/lessons/118670)|
+|3주차|24.01.22~24.01.26 24:00|5개|[1. 우주 탐사선🔗](https://www.acmicpc.net/problem/17182)<br> [2. 빵집🔗](https://www.acmicpc.net/problem/3109) <br> [3. 감시 피하기🔗](https://www.acmicpc.net/problem/18428) <br> [4. 극장 좌석🔗](https://www.acmicpc.net/problem/2302)<br> [5. 피보나치 함수🔗](https://www.acmicpc.net/problem/1003)|
 
 <br>
 
