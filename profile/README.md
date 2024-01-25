@@ -11,7 +11,7 @@
 |주차|일자|문제 풀이 개수|프로그래머스 링크|
 |--|--|--|--|
 |1주차|24.01.14 13:00 | 1개 | [[PCCP 기출문제] 2번 / 석유 시추🔗](https://school.programmers.co.kr/learn/courses/30/lessons/250136)
-
+|2주차|24.01.23 23:00 |1개|[백준 DNA 비밀번호 12891번](https://www.acmicpc.net/problem/12891)|
 <br>
 
 ## 1️⃣ 스터디 룰 
